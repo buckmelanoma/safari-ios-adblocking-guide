@@ -18,3 +18,5 @@ For the next part we will enable DNS blocking to take care of ads that appear in
   * On macOS: Click on Preferences in the app status bar menu and go to the Configuration tab, check "Use Custom Configuration" and enter your ID (should be a 6 character ID)
 5.  Make sure the switch in the app is toggled on and you should now be completely ad free!
 6.  You can take it a step further and install the NextDNS app on your other computers and phones to block ads on them
+
+Bonus step: Install the [SponsorBlock](https://apps.apple.com/us/app/sponsorblock-for-safari/id1573461917) extension for Safari which blocks sponsor segments and filter content in YouTube videos.   
